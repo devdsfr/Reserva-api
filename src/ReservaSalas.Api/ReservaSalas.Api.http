@@ -1,0 +1,6 @@
+@ReservaSalas.Api_HostAddress = http://localhost:5150
+
+GET {{ReservaSalas.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

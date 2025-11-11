@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReservaSalas.Domain/1.0.0": {
+        "runtime": {
+          "ReservaSalas.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReservaSalas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
